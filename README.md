@@ -1,9 +1,9 @@
 ## Aoba meu nome é Arthur Prants
-
-🎓 Tenho 14 anos e estudo no IFC.  
-💻 Curto programação, design, Roblox e tudo que envolve tecnologia.  
-📚 Sempre aprendendo algo novo e às vezes quebrando umas coisas no processo
-🎮 Gamer nas horas vagas e dev no tempo livre.
+ 
+ 🎓 Tenho 14 anos e estudo no IFC.  
+ 💻 Curto programação, design, Roblox e tudo que envolve tecnologia.  
+ 📚 Sempre aprendendo algo novo e às vezes quebrando umas coisas no processo 
+ 🎮 Gamer nas horas vagas e dev no tempo livre.
 
 ### 📊 Estatísticas GitHub:
 
